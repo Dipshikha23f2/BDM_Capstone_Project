@@ -74,7 +74,8 @@ Inventory Optimization: ABC analysis and restocking threshold alerts
 
 
 
-📊 Charts & Visuals
+**📊 Charts & Visuals******
+
 This section visually summarizes key findings from the analysis:
 
 **1. Monthly Revenue vs Purchase Cost**
