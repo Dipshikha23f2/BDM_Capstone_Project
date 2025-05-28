@@ -73,6 +73,32 @@ Dynamic Pricing & Forecasting: Regression-based forecasting planned
 Inventory Optimization: ABC analysis and restocking threshold alerts
 
 
+
+📊 Charts & Visuals
+This section visually summarizes key findings from the analysis:
+
+**1. Monthly Revenue vs Purchase Cost**
+
+Shows how revenue and costs fluctuate over the three-month period:
+
+![monthly_revenue_vs_purchase_cost](https://github.com/user-attachments/assets/77f7d969-fb3f-4b55-a605-c1c15e15e31d)
+
+
+**2. Monthly Profit**
+
+Displays profit variation across October to December:
+
+![monthly_profit](https://github.com/user-attachments/assets/29ab2235-cbe0-44a2-8f05-f1e3ec6e4ed5)
+
+
+**3. Revenue Distribution (Box Plot)**
+
+Illustrates how revenue values are spread and highlights the volatility:
+
+![revenue_distribution_boxplot](https://github.com/user-attachments/assets/7b89a439-2389-49a5-801b-8c197b2954ac)
+
+
+
 **🧾 Recommendations**
 
 Implement Inventory Forecasting based on seasonal demand
